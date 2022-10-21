@@ -1,4 +1,4 @@
-# fonction pour le pendu
+# fonction pour le morpion
 
 def lependu(values):
     print("\n")
